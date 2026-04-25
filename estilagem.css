@@ -4,4 +4,11 @@
 .negrito {
     font-weight: bold;
 }
+.containerr {
+    background-color: #000;
+    width: 100rem;
+    min-height: 3rem;
+    max-height: 60.5rem;
+    border: #e2d9f3;
+}
 
